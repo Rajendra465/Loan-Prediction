@@ -1,0 +1,12 @@
+https://colab.research.google.com/drive/1L4Cve4_pzbT3Ex4pYzSVX33LQbMfnsGZ#scrollTo=6sxLEBqgSGrC
+(Loan)
+https://colab.research.google.com/drive/1rACbcafF36dCIkveQCCZ8CiV2cixmI9W#scrollTo=MGOVkwTEmg3f
+(BM Sale)
+https://colab.research.google.com/drive/1gNOamVMmFgSaoFYxbzc6NAUaN3rA7gC0#scrollTo=flW0gfCYhUXU
+(Wine)
+https://colab.research.google.com/drive/1Z8Qoo6NsTtDUTzi9BU9enojvXVjrUr6u#scrollTo=lwRJJA9OWI5Y
+(Time Series)
+https://colab.research.google.com/drive/1F-dKSfyIVbFY7d3auiQqy3Lg6hk4vNGQ#scrollTo=gEXvo-bK6P4k
+(Height-Weight)
+https://colab.research.google.com/drive/1h6ku_8w3tLxs-8lhL5uUjtIrUTuPFRZH#scrollTo=kLPUJnH3WnZg
+(Boston)
